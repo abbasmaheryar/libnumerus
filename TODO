@@ -1,0 +1,6 @@
+- Add ability to represent random numbers in different bases, such as:
+	Base64
+	Base256
+	Hexadecimal
+
+- Complete this TODO with more ideas
